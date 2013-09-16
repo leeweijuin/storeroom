@@ -1,11 +1,8 @@
 <head> 
 <style>
-<<<<<<< HEAD
 h100, h2{ font-family: bold }
-=======
-h1, h2{ font-family: bold, arial }
->>>>>>> aa9aa83a61e58614a11c698fb5a2863f94274930
 </style>
+</head>
 <body>
 
 </body>
