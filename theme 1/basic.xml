@@ -1,6 +1,12 @@
 <head> 
-<style>
-h1, h2{ font-family: bold }
+<meta name="color:Outside Text" content=#616566"/>
+<meta name="font:Outside Text" content="Arial, Verdana"/> 
+<style type="text/css">
+
+body {
+font-family :{font:Outside Text};
+}
+
 </style>
 </head>
 <body>
