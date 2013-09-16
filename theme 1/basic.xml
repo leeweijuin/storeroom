@@ -1,6 +1,7 @@
 <head> 
 <style>
 h100, h2{ font-family: bold }
+a { color:{color:Background} }
 </style>
 </head>
 <body>
