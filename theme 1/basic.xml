@@ -1,13 +1,16 @@
 <head> 
-<meta name="color:Outside Text" content=#616566"/>
-<meta name="font:Outside Text" content="Arial, Verdana"/> 
+<meta name="color:Outside Text" content="#616566"/>
+<meta name="font:Outside Text" content="Courier New, Comic Sans MS, Arial"/> 
+
 <style type="text/css">
 
 body {
-font-family :{font:Outside Text};
+font-family:{font:Outside Text};
+color:{color:Outside Text};
 }
 
 </style>
+
 </head>
 <body>
 <div id="content">
