@@ -1,12 +1,44 @@
 <head> 
 <meta name="color:Outside Text" content=#616566"/>
 <meta name="font:Outside Text" content="Arial, Verdana"/> 
-<style type="text/css">
-
+<style>
+/*Basic styles*/
 body {
-font-family :{font:Outside Text};
+    background: {color:Background} url('{image:Background}') repeat;
+    color: {color:Text};
+    font-family: {font:Body};
+    font-size: 0.8em;
 }
 
+img {
+    max-width: 100%;
+}
+
+/*Content area*/
+#content {
+    margin-left: 5%;
+    width: 65%;
+}
+
+.inner {
+    display: inline-block;
+    padding: 4%;
+    width: 92%;
+}
+
+.photo img {
+    display: block;
+}
+
+/*Common styles*/
+#content article, .item {
+    box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.33);
+}
+
+#content article, .item {
+    border-radius: 0.2em;
+}
+{CustomCSS}
 </style>
 </head>
 <body>
