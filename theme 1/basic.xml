@@ -30,6 +30,9 @@ img {
     display: block;
 }
 
+/*Common styles*/
+#content article, .item {
+    box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.33);
 }
 
 #content article, .item {
